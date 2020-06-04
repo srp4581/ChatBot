@@ -1,0 +1,7 @@
+6/4/2020
+
+r"Your string here"
+
+    <r> in front of the string converts strings to raw strings. This way, all characters in the string
+    are taken literally, so characters that would normally be escape sequences will just be included
+    as part of the string.
